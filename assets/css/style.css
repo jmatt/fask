@@ -1,0 +1,6 @@
+html, body, h1, div, #meta-application-version {
+    background-color: #aaa;
+}
+#meta-application-version {
+    color: #90d;
+}
