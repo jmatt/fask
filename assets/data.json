@@ -1,2 +1,460 @@
-[{"rahr": "good",
-  "that": false}]
+
+	{	"NAME":"Literary LA",
+	"AUTHOR":"Los Angeles Times",
+	"LINK":"http://guides.latimes.com/literary-la/",
+	"RATE":4.5,
+	"LABEL":"["City", "Book"]",
+	"URL":"http://guides.latimes.com/literary-la/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"San Francisco: The Literary City",
+	"AUTHOR":"San Francisco Chronicle",
+	"LINK":"http://www.sfchronicle.com/theliterarycity/",
+	"RATE":6,
+	"LABEL":"["City", "Book"]",
+	"URL":"http://www.sfchronicle.com/theliterarycity/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"The Georgia Literary Map",
+	"AUTHOR":"Georgia Center for the Book",
+	"LINK":"http://georgiacenterforthebook.org/Georgia-Literary-Map/index.php",
+	"RATE":2,
+	"LABEL":"["Region", "Author"]",
+	"URL":"http://georgiacenterforthebook.org/Georgia-Literary-Map/index.php",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Adirondack Literary Map",
+	"AUTHOR":"Adirondack Center for Writing",
+	"LINK":"http://www.adirondackcenterforwriting.org/writer-resources/adirondack-literary-map",
+	"RATE":3.5,
+	"LABEL":"["Region", "Book", "Author"]",
+	"URL":"http://www.adirondackcenterforwriting.org/writer-resources/adirondack-literary-map",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"A Literary Map of Brooklyn",
+	"AUTHOR":"Brooklyn Public Library",
+	"LINK":"http://www.bklynlibrary.org/map/literary/",
+	"RATE":2.5,
+	"LABEL":"["City", "Author"]",
+	"URL":"http://www.bklynlibrary.org/map/literary/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"The Goodly Land: Alabama's Literary Landscape",
+	"AUTHOR":"Alabama Center for the Book",
+	"LINK":"http://alabamaliterarymap.lib.ua.edu/literary_map",
+	"RATE":2.5,
+	"LABEL":"["Region", "Author"]",
+	"URL":"http://alabamaliterarymap.lib.ua.edu/literary_map",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Literary and Cultural Heritage Map of Pennsylvania",
+	"AUTHOR":"Pennsylvania Center for the Book/Penn State",
+	"LINK":"http://pabook.libraries.psu.edu/palitmap/litmap.html",
+	"RATE":4,
+	"LABEL":"["Region", "Author"]",
+	"URL":"http://pabook.libraries.psu.edu/palitmap/litmap.html",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Map of Kansas Literature",
+	"AUTHOR":"Washburn University (Thomas Fox Averill)",
+	"LINK":"http://www.washburn.edu/reference/cks/mapping/",
+	"RATE":3,
+	"LABEL":"["Region", "Author"]",
+	"URL":"http://www.washburn.edu/reference/cks/mapping/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"North Carolina Literary Map",
+	"AUTHOR":"UNC Greensboro",
+	"LINK":"https://library.uncg.edu/dp/nclitmap/",
+	"RATE":2.5,
+	"LABEL":"["Region", "Author"]",
+	"URL":"https://library.uncg.edu/dp/nclitmap/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"To Do: Upper East Side Literary Map",
+	"AUTHOR":"Warby Parker",
+	"LINK":"http://blog.warbyparker.com/upper-east-side-new-york-literary-map/",
+	"RATE":6,
+	"LABEL":"["City", "Book", "Author"]",
+	"URL":"http://blog.warbyparker.com/upper-east-side-new-york-literary-map/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"To Do: Los Angeles Literary Map",
+	"AUTHOR":"Warby Parker",
+	"LINK":"http://blog.warbyparker.com/los-angeles-literary-map/",
+	"RATE":6,
+	"LABEL":"["City", "Book", "Author"]",
+	"URL":"http://blog.warbyparker.com/los-angeles-literary-map/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"To Do: Downtown Manhattan Literary Map",
+	"AUTHOR":"Warby Parker",
+	"LINK":"http://blog.warbyparker.com/los-angeles-literary-map/",
+	"RATE":6,
+	"LABEL":"["City", "Book", "Author"]",
+	"URL":"http://blog.warbyparker.com/los-angeles-literary-map/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Literary Map of Detroit",
+	"AUTHOR":"Marygrove College (Frank Rashid)",
+	"LINK":"http://www.marygrove.edu/academics/institutes/institute-for-detroit-studies/literary-map-of-detroit.html",
+	"RATE":1,
+	"LABEL":"["City"]",
+	"URL":"http://www.marygrove.edu/academics/institutes/institute-for-detroit-studies/literary-map-of-detroit.html",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Literary Map of Africa",
+	"AUTHOR":"Ohio State University Libraries",
+	"LINK":"https://library.osu.edu/literary-map-of-africa/map",
+	"RATE":4,
+	"LABEL":"["Author"]",
+	"URL":"https://library.osu.edu/literary-map-of-africa/map",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Literary Map of Virginia",
+	"AUTHOR":"Virginia Association of Teachers of English (VATE)",
+	"LINK":"http://www.vate.org/litmapva/litmapva.htm",
+	"RATE":2,
+	"LABEL":"["Region", "Author"]",
+	"URL":"http://www.vate.org/litmapva/litmapva.htm",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"A Literary Map of Michigan",
+	"AUTHOR":"Calvin College",
+	"LINK":"http://www.calvin.edu/academic/engl/mi-literarymap/",
+	"RATE":3.5,
+	"LABEL":"["Region", "Author"]",
+	"URL":"http://www.calvin.edu/academic/engl/mi-literarymap/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Florida--In So Many Words",
+	"AUTHOR":"National Council of Teachers of English (NCTE) (?)",
+	"LINK":"http://www.ncte.org/library/NCTEFiles/Groups/Affiliates/Maps/Florida_Map/Site%204/Florida%20Literary%20Map%20Home.html",
+	"RATE":5.5,
+	"LABEL":"["Region", "Author", "Book"]",
+	"URL":"http://www.ncte.org/library/NCTEFiles/Groups/Affiliates/Maps/Florida_Map/Site%204/Florida%20Literary%20Map%20Home.html",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"A Literary Map of Maine",
+	"AUTHOR":"Portland Press Herald/Maine Sunday Telegram",
+	"LINK":"http://assets.mainetoday.com/literarymap/map.html",
+	"RATE":3.5,
+	"LABEL":"["Author", "Book"]",
+	"URL":"http://assets.mainetoday.com/literarymap/map.html",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"New Brunswick Literary Map",
+	"AUTHOR":"New Brunswick Literary Encyclopedia",
+	"LINK":"http://w3.stu.ca/stu/sites/nble/timelines_map.html",
+	"RATE":2,
+	"LABEL":"["Region", "Author"]",
+	"URL":"http://w3.stu.ca/stu/sites/nble/timelines_map.html",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Literary New Orleans",
+	"AUTHOR":"University of Richmond, Professor Suzanne Jones",
+	"LINK":"http://dsl.richmond.edu/tocqueville/LiteraryNewOrleans.html",
+	"RATE":2,
+	"LABEL":"["City", "Author", "Book"]",
+	"URL":"http://dsl.richmond.edu/tocqueville/LiteraryNewOrleans.html",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Book Map: Edinburgh Novels",
+	"AUTHOR":"Edinburgh Libraries and Information Services",
+	"LINK":"http://yourlibrary.edinburgh.gov.uk/fictionmap",
+	"RATE":3,
+	"LABEL":"["City", "Book"]",
+	"URL":"http://yourlibrary.edinburgh.gov.uk/fictionmap",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Book Map: The World of Crime",
+	"AUTHOR":"Edinburgh Libraries and Information Services",
+	"LINK":"http://yourlibrary.edinburgh.gov.uk/crimefictionmap",
+	"RATE":3,
+	"LABEL":"["Misc", "Book"]",
+	"URL":"http://yourlibrary.edinburgh.gov.uk/crimefictionmap",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Literary Map of Oregon",
+	"AUTHOR":"Oregon Council of Teachers of English (OCTE)",
+	"LINK":"http://www.octe.org/oregon-literary-map.html",
+	"RATE":5,
+	"LABEL":"["Region", "Author"]",
+	"URL":"http://www.octe.org/oregon-literary-map.html",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"The Literary Map of Southwark",
+	"AUTHOR":"Southwark Council",
+	"LINK":"http://www.southwark.gov.uk/info/200062/libraries/2634/literary_map_of_southwark",
+	"RATE":5,
+	"LABEL":"["Region", "Book"]",
+	"URL":"http://www.southwark.gov.uk/info/200062/libraries/2634/literary_map_of_southwark",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Reading Arizona: The Literary Landscape",
+	"AUTHOR":"Pima County Public Library and Arizona State Library",
+	"LINK":"http://map.readingarizona.org",
+	"RATE":7.5,
+	"LABEL":"["Region", "Author", "Book"]",
+	"URL":"http://map.readingarizona.org",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"A Literary Map of Manhattan",
+	"AUTHOR":"New York Times",
+	"LINK":"http://www.nytimes.com/packages/html/books/20050605_BOOKMAP_GRAPHIC/",
+	"RATE":6.5,
+	"LABEL":"["City", "Book"]",
+	"URL":"http://www.nytimes.com/packages/html/books/20050605_BOOKMAP_GRAPHIC/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Jewish Literary Map of New York City",
+	"AUTHOR":"Jewish Book Council",
+	"LINK":"http://www.jewishbookcouncil.org/books/jewish-literary-maps",
+	"RATE":4.5,
+	"LABEL":"["City", "Location"]",
+	"URL":"http://www.jewishbookcouncil.org/books/jewish-literary-maps",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Placing Literature",
+	"AUTHOR":"Placing Literature",
+	"LINK":"http://www.placingliterature.com/home",
+	"RATE":5,
+	"LABEL":"["Misc", "City", "Author"]",
+	"URL":"http://www.placingliterature.com/home",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"The Atlas of Fiction",
+	"AUTHOR":"The Atlas of Fiction",
+	"LINK":"http://www.atlasoffiction.com/map",
+	"RATE":4.5,
+	"LABEL":"["Misc", "Book"]",
+	"URL":"http://www.atlasoffiction.com/map",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Books Set In...",
+	"AUTHOR":"Books Set In...",
+	"LINK":"http://www.bookssetin.com",
+	"RATE":NULL,
+	"LABEL":"NULL",
+	"URL":"http://www.bookssetin.com",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Ohio Literary Map",
+	"AUTHOR":"Ohio Center for the Book",
+	"LINK":"http://www.ohiocenterforthebook.org/LinkClick.aspx?fileticket=Iy6HFi9SIBE%3d&tabid=1273",
+	"RATE":4,
+	"LABEL":"["Artistic", "Author"]",
+	"URL":"http://www.ohiocenterforthebook.org/LinkClick.aspx?fileticket=Iy6HFi9SIBE%3d&tabid=1273",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"The Good Omens Lexicon",
+	"AUTHOR":"Harry Potter Lexicon",
+	"LINK":"http://goodomenslexicon.org/",
+	"RATE":NULL,
+	"LABEL":"NULL",
+	"URL":"http://goodomenslexicon.org/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Settings of Shakespeare's Plays",
+	"AUTHOR":"User on Google Maps",
+	"LINK":"https://maps.google.com/maps/ms?ie=UTF8&t=h&oe=UTF8&msa=0&msid=215755357790451521368.0004c1c07470c18565e73",
+	"RATE":2,
+	"LABEL":"["Author", "Location"]",
+	"URL":"https://maps.google.com/maps/ms?ie=UTF8&t=h&oe=UTF8&msa=0&msid=215755357790451521368.0004c1c07470c18565e73",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Map of Shakespeare's Play Locations",
+	"AUTHOR":"NULL",
+	"LINK":"http://www.nosweatshakespeare.com/shakespeares-plays/shakespeares-play-locations/#marker1",
+	"RATE":2,
+	"LABEL":"["Author"]",
+	"URL":"http://www.nosweatshakespeare.com/shakespeares-plays/shakespeares-play-locations/#marker1",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"LITMAP: The Rings of Saturn: An English Pilgrimage",
+	"AUTHOR":"Barbara Hui",
+	"LINK":"http://barbarahui.net/litmap/",
+	"RATE":2.5,
+	"LABEL":"["Misc", "Book"]",
+	"URL":"http://barbarahui.net/litmap/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Walking Ulysses",
+	"AUTHOR":"Boston College, Joseph Nugent",
+	"LINK":"http://ulysses.bc.edu",
+	"RATE":5.5,
+	"LABEL":"["Book"]",
+	"URL":"http://ulysses.bc.edu",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Lolita, USA",
+	"AUTHOR":"Dieter E. Zimmer",
+	"LINK":"http://www.d-e-zimmer.de/LolitaUSA/LoUSpre.htm",
+	"RATE":3,
+	"LABEL":"["Book", "Location"]",
+	"URL":"http://www.d-e-zimmer.de/LolitaUSA/LoUSpre.htm",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Moby Dick Literary Map",
+	"AUTHOR":"Harris-Seybold Co. / Library of Congress",
+	"LINK":"http://www.loc.gov/exhibits/treasures/tri064.html",
+	"RATE":8,
+	"LABEL":"["Artistic", "Book"]",
+	"URL":"http://www.loc.gov/exhibits/treasures/tri064.html",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Interactive Game of Thrones Map",
+	"AUTHOR":"NULL",
+	"LINK":"http://quartermaester.info",
+	"RATE":8,
+	"LABEL":"["Fantasy"]",
+	"URL":"http://quartermaester.info",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Interactive Map of Middle Earth",
+	"AUTHOR":"LOTR Project",
+	"LINK":"http://lotrproject.com/map/#zoom=3&lat=-1315.5&lon=1500&layers=BTTTTT",
+	"RATE":10,
+	"LABEL":"["Fantasy"]",
+	"URL":"http://lotrproject.com/map/#zoom=3&lat=-1315.5&lon=1500&layers=BTTTTT",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Interactive map: the UK's best bookshops and Literary locations",
+	"AUTHOR":"The Guardian",
+	"LINK":"http://www.theguardian.com/books/interactive/2012/may/31/best-bookshops-map",
+	"RATE":NULL,
+	"LABEL":"NULL",
+	"URL":"http://www.theguardian.com/books/interactive/2012/may/31/best-bookshops-map",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Poems About Places",
+	"AUTHOR":"Poetry Atlas",
+	"LINK":"http://www.poetryatlas.com/",
+	"RATE":4.5,
+	"LABEL":"["Misc"]",
+	"URL":"http://www.poetryatlas.com/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Inside Inferno in Florence",
+	"AUTHOR":"Press Agency Headline",
+	"LINK":"http://www.insideinferno.com/en/",
+	"RATE":4.5,
+	"LABEL":"["Artistic"]",
+	"URL":"http://www.insideinferno.com/en/",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Dylan Thomas 100",
+	"AUTHOR":"Dylan Thomas 100",
+	"LINK":"http://www.dylanthomas100.org/english/map/#",
+	"RATE":6.5/2,
+	"LABEL":"["Misc"]",
+	"URL":"http://www.dylanthomas100.org/english/map/#",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"Catalogue of Ships in the Iliad",
+	"AUTHOR":"Scholar's Lab, UVa",
+	"LINK":"http://ships.lib.virginia.edu",
+	"RATE":5,
+	"LABEL":"["Book"]",
+	"URL":"http://ships.lib.virginia.edu",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	"NAME":"All the Pretty Horses",
+	"AUTHOR":"NULL",
+	"LINK":"https://www.google.com/maps/d/viewer?mid=z2yfHlzYdBUY.k-Ay1it52V8Y&msa=0",
+	"RATE":2,
+	"LABEL":"["Book"]",
+	"URL":"https://www.google.com/maps/d/viewer?mid=z2yfHlzYdBUY.k-Ay1it52V8Y&msa=0",
+	"DESCRIPTION":null,
+	"IMG":null
+	}]
