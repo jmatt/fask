@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Ignore thumb.db in image directory.
+assets/img/Thumbs.db
