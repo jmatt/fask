@@ -1,460 +1,488 @@
-
-	{	"NAME":"Literary LA",
-	"AUTHOR":"Los Angeles Times",
+[
+	{	
+	"NAME":"Literary LA",
+	"Author":"Los Angeles Times",
 	"LINK":"http://guides.latimes.com/literary-la/",
-	"RATE":4.5,
-	"LABEL":"["City", "Book"]",
-	"URL":"http://guides.latimes.com/literary-la/",
+	"LABEL":"['Local Collection', 'Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"San Francisco: The Literary City",
-	"AUTHOR":"San Francisco Chronicle",
+	{	
+	"NAME":"San Francisco: The Literary City",
+	"Author":"San Francisco Chronicle",
 	"LINK":"http://www.sfchronicle.com/theliterarycity/",
-	"RATE":6,
-	"LABEL":"["City", "Book"]",
-	"URL":"http://www.sfchronicle.com/theliterarycity/",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Local Collections','Local Collections', 'Everything Else']",
+	"DESCRIPTION":"<div>Created by the San Francisco Chronicle, this interactive and detailed map shows locations within San Francisco of booksellers, places relevant to local authors, and specific passages or quotes complete with title, author, area featured, and a picture. </div>",
+	"IMG":"City_SF.png"
 	},
 
-	{	"NAME":"The Georgia Literary Map",
-	"AUTHOR":"Georgia Center for the Book",
+	{	
+	"NAME":"The Georgia Literary Map",
+	"Author":"Georgia Center for the Book",
 	"LINK":"http://georgiacenterforthebook.org/Georgia-Literary-Map/index.php",
-	"RATE":2,
-	"LABEL":"["Region", "Author"]",
-	"URL":"http://georgiacenterforthebook.org/Georgia-Literary-Map/index.php",
+	"LABEL":"['Regional Work', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Adirondack Literary Map",
-	"AUTHOR":"Adirondack Center for Writing",
+	{	
+	"NAME":"Adirondack Literary Map",
+	"Author":"Adirondack Center for Writing",
 	"LINK":"http://www.adirondackcenterforwriting.org/writer-resources/adirondack-literary-map",
-	"RATE":3.5,
-	"LABEL":"["Region", "Book", "Author"]",
-	"URL":"http://www.adirondackcenterforwriting.org/writer-resources/adirondack-literary-map",
+	"LABEL":"['Regional Work', 'Everything Else', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"A Literary Map of Brooklyn",
-	"AUTHOR":"Brooklyn Public Library",
+	{	
+	"NAME":"A Literary Map of Brooklyn",
+	"Author":"Brooklyn Public Library",
 	"LINK":"http://www.bklynlibrary.org/map/literary/",
-	"RATE":2.5,
-	"LABEL":"["City", "Author"]",
-	"URL":"http://www.bklynlibrary.org/map/literary/",
+	"LABEL":"['Local Collections', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"The Goodly Land: Alabama's Literary Landscape",
-	"AUTHOR":"Alabama Center for the Book",
+	{	
+	"NAME":"The Goodly Land: Alabama's Literary Landscape",
+	"Author":"Alabama Center for the Book",
 	"LINK":"http://alabamaliterarymap.lib.ua.edu/literary_map",
-	"RATE":2.5,
-	"LABEL":"["Region", "Author"]",
-	"URL":"http://alabamaliterarymap.lib.ua.edu/literary_map",
+	"LABEL":"['Regional Work', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Literary and Cultural Heritage Map of Pennsylvania",
-	"AUTHOR":"Pennsylvania Center for the Book/Penn State",
+	{	
+	"NAME":"Literary and Cultural Heritage Map of Pennsylvania",
+	"Author":"Pennsylvania Center for the Book/Penn State",
 	"LINK":"http://pabook.libraries.psu.edu/palitmap/litmap.html",
-	"RATE":4,
-	"LABEL":"["Region", "Author"]",
-	"URL":"http://pabook.libraries.psu.edu/palitmap/litmap.html",
+	"LABEL":"['Regional Work', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Map of Kansas Literature",
-	"AUTHOR":"Washburn University (Thomas Fox Averill)",
+	{	
+	"NAME":"Map of Kansas Literature",
+	"Author":"Washburn University (Thomas Fox Averill)",
 	"LINK":"http://www.washburn.edu/reference/cks/mapping/",
-	"RATE":3,
-	"LABEL":"["Region", "Author"]",
-	"URL":"http://www.washburn.edu/reference/cks/mapping/",
+	"LABEL":"['Regional Work', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"North Carolina Literary Map",
-	"AUTHOR":"UNC Greensboro",
+	{	
+	"NAME":"North Carolina Literary Map",
+	"Author":"UNC Greensboro",
 	"LINK":"https://library.uncg.edu/dp/nclitmap/",
-	"RATE":2.5,
-	"LABEL":"["Region", "Author"]",
-	"URL":"https://library.uncg.edu/dp/nclitmap/",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Regional Work', 'Regional Work', 'Singular Focus']",
+	"DESCRIPTION":"<div>One of the most active literary maps in the U.S., it was developed by the University of North Carolina at Greensboro and includes lesson plans and references for teachers. Methodically catalogs works by county and author, and provides short biographical and publication information.</div>",
+	"IMG":"Region_NC.png"
 	},
 
-	{	"NAME":"To Do: Upper East Side Literary Map",
-	"AUTHOR":"Warby Parker",
+	{	
+	"NAME":"To Do: Upper East Side Literary Map",
+	"Author":"Warby Parker",
 	"LINK":"http://blog.warbyparker.com/upper-east-side-new-york-literary-map/",
-	"RATE":6,
-	"LABEL":"["City", "Book", "Author"]",
-	"URL":"http://blog.warbyparker.com/upper-east-side-new-york-literary-map/",
+	"LABEL":"['Local Collections', 'Everything Else', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"To Do: Los Angeles Literary Map",
-	"AUTHOR":"Warby Parker",
+	{	
+	"NAME":"To Do: Los Angeles Literary Map",
+	"Author":"Warby Parker",
 	"LINK":"http://blog.warbyparker.com/los-angeles-literary-map/",
-	"RATE":6,
-	"LABEL":"["City", "Book", "Author"]",
-	"URL":"http://blog.warbyparker.com/los-angeles-literary-map/",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Artistic Representation', 'Artistic Representation', Local Collections', 'Everything Else', 'Singular Focus']",
+	"DESCRIPTION":"<div>Made by Warby Parker, an American maker of eyeglasses and sunglasses, to display their vast range of locations this book map of the city of Los Angeles displays author locations and LA-specific book quotes to provide a rounded visual of the city and culture.</div>",
+	"IMG":"Artistic_WPLA.png"
 	},
 
-	{	"NAME":"To Do: Downtown Manhattan Literary Map",
-	"AUTHOR":"Warby Parker",
+	{	
+	"NAME":"To Do: Downtown Manhattan Literary Map",
+	"Author":"Warby Parker",
 	"LINK":"http://blog.warbyparker.com/los-angeles-literary-map/",
-	"RATE":6,
-	"LABEL":"["City", "Book", "Author"]",
-	"URL":"http://blog.warbyparker.com/los-angeles-literary-map/",
+	"LABEL":"['Local Collections', 'Everything Else', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Literary Map of Detroit",
-	"AUTHOR":"Marygrove College (Frank Rashid)",
+	{	
+	"NAME":"Literary Map of Detroit",
+	"Author":"Marygrove College (Frank Rashid)",
 	"LINK":"http://www.marygrove.edu/academics/institutes/institute-for-detroit-studies/literary-map-of-detroit.html",
-	"RATE":1,
-	"LABEL":"["City"]",
-	"URL":"http://www.marygrove.edu/academics/institutes/institute-for-detroit-studies/literary-map-of-detroit.html",
-	"DESCRIPTION":null,
+	"LABEL":"['Main Local Collections', 'Local Collections']",
+	"DESCRIPTION":"<div>The project is an effort by individuals from the Institute for Detroit Studies at Marygrove College to map and describe locations with significant to Detroit while also cataloging works relevant to Detroit authors. Each location often has multiple literary references, and full articles written about it.</div>",
 	"IMG":null
 	},
 
-	{	"NAME":"Literary Map of Africa",
-	"AUTHOR":"Ohio State University Libraries",
+	{	
+	"NAME":"Literary Map of Africa",
+	"Author":"Ohio State University Libraries",
 	"LINK":"https://library.osu.edu/literary-map-of-africa/map",
-	"RATE":4,
-	"LABEL":"["Author"]",
-	"URL":"https://library.osu.edu/literary-map-of-africa/map",
+	"LABEL":"['Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Literary Map of Virginia",
-	"AUTHOR":"Virginia Association of Teachers of English (VATE)",
-	"LINK":"http://www.vate.org/litmapva/litmapva.htm",
-	"RATE":2,
-	"LABEL":"["Region", "Author"]",
-	"URL":"http://www.vate.org/litmapva/litmapva.htm",
-	"DESCRIPTION":null,
-	"IMG":null
-	},
-
-	{	"NAME":"A Literary Map of Michigan",
-	"AUTHOR":"Calvin College",
+	{	
+	"NAME":"A Literary Map of Michigan",
+	"Author":"Calvin College",
 	"LINK":"http://www.calvin.edu/academic/engl/mi-literarymap/",
-	"RATE":3.5,
-	"LABEL":"["Region", "Author"]",
-	"URL":"http://www.calvin.edu/academic/engl/mi-literarymap/",
+	"LABEL":"['Regional Work', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Florida--In So Many Words",
-	"AUTHOR":"National Council of Teachers of English (NCTE) (?)",
+	{	
+	"NAME":"Florida--In So Many Words",
+	"Author":"National Council of Teachers of English (NCTE) (?)",
 	"LINK":"http://www.ncte.org/library/NCTEFiles/Groups/Affiliates/Maps/Florida_Map/Site%204/Florida%20Literary%20Map%20Home.html",
-	"RATE":5.5,
-	"LABEL":"["Region", "Author", "Book"]",
-	"URL":"http://www.ncte.org/library/NCTEFiles/Groups/Affiliates/Maps/Florida_Map/Site%204/Florida%20Literary%20Map%20Home.html",
+	"LABEL":"['Regional Work', 'Singular Focus', 'Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"A Literary Map of Maine",
-	"AUTHOR":"Portland Press Herald/Maine Sunday Telegram",
+	{	
+	"NAME":"A Literary Map of Maine",
+	"Author":"Portland Press Herald/Maine Sunday Telegram",
 	"LINK":"http://assets.mainetoday.com/literarymap/map.html",
-	"RATE":3.5,
-	"LABEL":"["Author", "Book"]",
-	"URL":"http://assets.mainetoday.com/literarymap/map.html",
+	"LABEL":"['Singular Focus', 'Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"New Brunswick Literary Map",
-	"AUTHOR":"New Brunswick Literary Encyclopedia",
+	{	
+	"NAME":"New Brunswick Literary Map",
+	"Author":"New Brunswick Literary Encyclopedia",
 	"LINK":"http://w3.stu.ca/stu/sites/nble/timelines_map.html",
-	"RATE":2,
-	"LABEL":"["Region", "Author"]",
-	"URL":"http://w3.stu.ca/stu/sites/nble/timelines_map.html",
+	"LABEL":"['Regional Work', 'Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Literary New Orleans",
-	"AUTHOR":"University of Richmond, Professor Suzanne Jones",
+	{	
+	"NAME":"Literary New Orleans",
+	"Author":"University of Richmond, Professor Suzanne Jones",
 	"LINK":"http://dsl.richmond.edu/tocqueville/LiteraryNewOrleans.html",
-	"RATE":2,
-	"LABEL":"["City", "Author", "Book"]",
-	"URL":"http://dsl.richmond.edu/tocqueville/LiteraryNewOrleans.html",
+	"LABEL":"['Local Collections', 'Singular Focus', 'Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Book Map: Edinburgh Novels",
-	"AUTHOR":"Edinburgh Libraries and Information Services",
+	{	
+	"NAME":"Book Map: Edinburgh Novels",
+	"Author":"Edinburgh Libraries and Information Services",
 	"LINK":"http://yourlibrary.edinburgh.gov.uk/fictionmap",
-	"RATE":3,
-	"LABEL":"["City", "Book"]",
-	"URL":"http://yourlibrary.edinburgh.gov.uk/fictionmap",
+	"LABEL":"['Local Collections', 'Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Book Map: The World of Crime",
-	"AUTHOR":"Edinburgh Libraries and Information Services",
+	{	
+	"NAME":"Book Map: The World of Crime",
+	"Author":"Edinburgh Libraries and Information Services",
 	"LINK":"http://yourlibrary.edinburgh.gov.uk/crimefictionmap",
-	"RATE":3,
-	"LABEL":"["Misc", "Book"]",
-	"URL":"http://yourlibrary.edinburgh.gov.uk/crimefictionmap",
+	"LABEL":"['Misc', 'Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Literary Map of Oregon",
-	"AUTHOR":"Oregon Council of Teachers of English (OCTE)",
+	{	
+	"NAME":"Literary Map of Oregon",
+	"Author":"Oregon Council of Teachers of English (OCTE)",
 	"LINK":"http://www.octe.org/oregon-literary-map.html",
-	"RATE":5,
-	"LABEL":"["Region", "Author"]",
-	"URL":"http://www.octe.org/oregon-literary-map.html",
+	"LABEL":"['Regional Work', 'Singular Focus', 'Artistic Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"The Literary Map of Southwark",
-	"AUTHOR":"Southwark Council",
-	"LINK":"http://www.southwark.gov.uk/info/200062/libraries/2634/literary_map_of_southwark",
-	"RATE":5,
-	"LABEL":"["Region", "Book"]",
-	"URL":"http://www.southwark.gov.uk/info/200062/libraries/2634/literary_map_of_southwark",
-	"DESCRIPTION":null,
-	"IMG":null
+	{	
+	"NAME":"The Literary Map of Southwark",
+	"Author":"Southwark Council",
+	"LINK":"http://maps.southwark.gov.uk/connect/southwark.jsp?mapcfg=LiteraryMap&tooltip=Literary_tips&banner=literary",
+	"LABEL":"['Main Regional Work','Regional Work', 'Everything Else']",
+	"DESCRIPTION":"<div>This project was started by numerous Southwark libraries in order to work together to map all of the literary connections present in Southwark, a borough of South London. Although the map only focuses on one location, it has a useful library feature in which you can check out the books mentioned in the map.</div>",
+	"IMG":"Region_SouthWark.png"
 	},
 
-	{	"NAME":"Reading Arizona: The Literary Landscape",
-	"AUTHOR":"Pima County Public Library and Arizona State Library",
+	{	
+	"NAME":"Reading Arizona: The Literary Landscape",
+	"Author":"Pima County Public Library and Arizona State Library",
 	"LINK":"http://map.readingarizona.org",
-	"RATE":7.5,
-	"LABEL":"["Region", "Author", "Book"]",
-	"URL":"http://map.readingarizona.org",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Regional Work', 'Regional Work', 'Singular Focus', 'Everything Else']",
+	"DESCRIPTION":"<div>Specific to the 48th state, this map was created by librarians to celebrate Arizona's centennial by mapping 100 books with locations in the state. The quirky and fun map illustrates buildings, towns, roads and more while letting you explore the mapped book locations which feature book titles and quotes.</div>",
+	"IMG":"Region_ReadingArizona.png"
 	},
 
-	{	"NAME":"A Literary Map of Manhattan",
-	"AUTHOR":"New York Times",
+	{	
+	"NAME":"A Literary Map of Manhattan",
+	"Author":"New York Times",
 	"LINK":"http://www.nytimes.com/packages/html/books/20050605_BOOKMAP_GRAPHIC/",
-	"RATE":6.5,
-	"LABEL":"["City", "Book"]",
-	"URL":"http://www.nytimes.com/packages/html/books/20050605_BOOKMAP_GRAPHIC/",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Local Collections', 'Local Collections', 'Everything Else']",
+	"DESCRIPTION":"<div>Created from submissions by readers of the New York Times, this Literary Map of Manhattan attempts to represent books from various genres and eras that take place in New York City's most bustling borough. While not the first digital literary map, the success of this project inspired many other bookish cartographers.</div>",
+	"IMG":"City_Manhattan.png"
 	},
 
-	{	"NAME":"Jewish Literary Map of New York City",
-	"AUTHOR":"Jewish Book Council",
+	{	
+	"NAME":"Jewish Literary Map of New York City",
+	"Author":"Jewish Book Council",
 	"LINK":"http://www.jewishbookcouncil.org/books/jewish-literary-maps",
-	"RATE":4.5,
-	"LABEL":"["City", "Location"]",
-	"URL":"http://www.jewishbookcouncil.org/books/jewish-literary-maps",
+	"LABEL":"['Local Collections']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Placing Literature",
-	"AUTHOR":"Placing Literature",
+	{	
+	"NAME":"Placing Literature",
+	"Author":"Arts Council of Greater New Haven",
 	"LINK":"http://www.placingliterature.com/home",
-	"RATE":5,
-	"LABEL":"["Misc", "City", "Author"]",
-	"URL":"http://www.placingliterature.com/home",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Everything Else', 'Everything Else', 'Local Collections', 'Singular Focus']",
+	"DESCRIPTION":"<div>A catalog of over 1000 locations from books, this interactive map provides locations and descriptions from books, searchable by both location and author. The project uses crowdsourcing as a method for online readers to plot scenes from various books onto the website's map.</div>",
+	"IMG":"Misc_PlacingL.png"
 	},
 
-	{	"NAME":"The Atlas of Fiction",
-	"AUTHOR":"The Atlas of Fiction",
+	{	
+	"NAME":"The Atlas of Fiction",
+	"Author":"The Atlas of Fiction",
 	"LINK":"http://www.atlasoffiction.com/map",
-	"RATE":4.5,
-	"LABEL":"["Misc", "Book"]",
-	"URL":"http://www.atlasoffiction.com/map",
+	"LABEL":"['Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Books Set In...",
-	"AUTHOR":"Books Set In...",
+	{	
+	"NAME":"Books Set In...",
+	"Author":"Books Set In...",
 	"LINK":"http://www.bookssetin.com",
-	"RATE":NULL,
-	"LABEL":"NULL",
-	"URL":"http://www.bookssetin.com",
+	"LABEL":"['Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Ohio Literary Map",
-	"AUTHOR":"Ohio Center for the Book",
+	{	
+	"NAME":"Ohio Literary Map",
+	"Author":"Ohio Center for the Book",
 	"LINK":"http://www.ohiocenterforthebook.org/LinkClick.aspx?fileticket=Iy6HFi9SIBE%3d&tabid=1273",
-	"RATE":4,
-	"LABEL":"["Artistic", "Author"]",
-	"URL":"http://www.ohiocenterforthebook.org/LinkClick.aspx?fileticket=Iy6HFi9SIBE%3d&tabid=1273",
+	"LABEL":"['Artistic Representation', 'Regional Works']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"The Good Omens Lexicon",
-	"AUTHOR":"Harry Potter Lexicon",
+	{	
+	"NAME":"The Good Omens Lexicon",
+	"Author":"Harry Potter Lexicon",
 	"LINK":"http://goodomenslexicon.org/",
-	"RATE":NULL,
-	"LABEL":"NULL",
-	"URL":"http://goodomenslexicon.org/",
+	"LABEL":"['Other Worlds']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Settings of Shakespeare's Plays",
-	"AUTHOR":"User on Google Maps",
+	{	
+	"NAME":"Settings of Shakespeare's Plays",
+	"Author":"User on Google Maps",
 	"LINK":"https://maps.google.com/maps/ms?ie=UTF8&t=h&oe=UTF8&msa=0&msid=215755357790451521368.0004c1c07470c18565e73",
-	"RATE":2,
-	"LABEL":"["Author", "Location"]",
-	"URL":"https://maps.google.com/maps/ms?ie=UTF8&t=h&oe=UTF8&msa=0&msid=215755357790451521368.0004c1c07470c18565e73",
+	"LABEL":"['Singular Focus', 'Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Map of Shakespeare's Play Locations",
-	"AUTHOR":"NULL",
+	{	
+	"NAME":"Map of Shakespeare's Play Locations",
+	"Author":"No Sweat Shakespeare",
 	"LINK":"http://www.nosweatshakespeare.com/shakespeares-plays/shakespeares-play-locations/#marker1",
-	"RATE":2,
-	"LABEL":"["Author"]",
-	"URL":"http://www.nosweatshakespeare.com/shakespeares-plays/shakespeares-play-locations/#marker1",
+	"LABEL":"['Singular Focus']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"LITMAP: The Rings of Saturn: An English Pilgrimage",
-	"AUTHOR":"Barbara Hui",
+	{	
+	"NAME":"LITMAP: The Rings of Saturn: An English Pilgrimage",
+	"Author":"Barbara Hui",
 	"LINK":"http://barbarahui.net/litmap/",
-	"RATE":2.5,
-	"LABEL":"["Misc", "Book"]",
-	"URL":"http://barbarahui.net/litmap/",
+	"LABEL":"['Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Walking Ulysses",
-	"AUTHOR":"Boston College, Joseph Nugent",
+	{	
+	"NAME":"Walking Ulysses",
+	"Author":"Boston College, Joseph Nugent",
 	"LINK":"http://ulysses.bc.edu",
-	"RATE":5.5,
-	"LABEL":"["Book"]",
-	"URL":"http://ulysses.bc.edu",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Singular Focus', 'Singular Focus']",
+	"DESCRIPTION":"<div>A collaboration between a graduate English class and a computer science class at Boston College, this virtual tour of James Joyce's Ulysses allows the viewer to set filters and choose the chapter they wish to explore, while simultaneously mapping out a path list. An app was also made called JoyceWays, which you can find on itunes. </div>",
+	"IMG":"Author_WalkingUlysses.png"
 	},
 
-	{	"NAME":"Lolita, USA",
-	"AUTHOR":"Dieter E. Zimmer",
+	{	
+	"NAME":"Lolita, USA",
+	"Author":"Dieter E. Zimmer",
 	"LINK":"http://www.d-e-zimmer.de/LolitaUSA/LoUSpre.htm",
-	"RATE":3,
-	"LABEL":"["Book", "Location"]",
-	"URL":"http://www.d-e-zimmer.de/LolitaUSA/LoUSpre.htm",
+	"LABEL":"['Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Moby Dick Literary Map",
-	"AUTHOR":"Harris-Seybold Co. / Library of Congress",
+	{	
+	"NAME":"Moby Dick Literary Map",
+	"Author":"Harris-Seybold Co. / Library of Congress",
 	"LINK":"http://www.loc.gov/exhibits/treasures/tri064.html",
-	"RATE":8,
-	"LABEL":"["Artistic", "Book"]",
-	"URL":"http://www.loc.gov/exhibits/treasures/tri064.html",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Artistic Representation', 'Artistic Representation', 'Everything Else']",
+	"DESCRIPTION":"<div>This map is called The Voyage of the Pequod, and it logs the journey taken by Captain Ahab, his ship, and crew. It was produced by the Harris-Seybold Company of Cleveland as one of a twelve part series of literary maps designed to display the potential of the lithographic printing equipment. This artistic representation of Herman Melville's Moby-Dick was illustrated by Everett Henry, a New York commercial artist famous for his mural paintings.</div>",
+	"IMG":"Artistic_MobyDick.png"
 	},
 
-	{	"NAME":"Interactive Game of Thrones Map",
-	"AUTHOR":"NULL",
+	{	
+	"NAME":"Interactive Game of Thrones Map",
+	"Author":"theMountainGoat and Werthead",
 	"LINK":"http://quartermaester.info",
-	"RATE":8,
-	"LABEL":"["Fantasy"]",
-	"URL":"http://quartermaester.info",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Other Worlds', 'Other Worlds']",
+	"DESCRIPTION":"<div>Created by three dedicated fans of the A Song of Ice and Fire book series, and its subsequent popular TV show Game of Thrones, this interactive map is pure fantasy, but provides an expansive and intricate look into Westeros with individual character paths, and a detailed wiki page.</div>",
+	"IMG":"Fantasy_GOT.png"
 	},
 
-	{	"NAME":"Interactive Map of Middle Earth",
-	"AUTHOR":"LOTR Project",
+	{	
+	"NAME":"Interactive Map of Middle Earth",
+	"Author":"LOTR Project",
 	"LINK":"http://lotrproject.com/map/#zoom=3&lat=-1315.5&lon=1500&layers=BTTTTT",
-	"RATE":10,
-	"LABEL":"["Fantasy"]",
-	"URL":"http://lotrproject.com/map/#zoom=3&lat=-1315.5&lon=1500&layers=BTTTTT",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Other Worlds','Other Worlds']",
+	"DESCRIPTION":"<div>This fan-created project is dedicated to the world created by J.R.R. Tolkien and features character genealogy, a historical timeline, statistics of the fictional population, and a detailed map of Middle-Earth. The map is an extensive and interactive map that charts the paths taken by characters, and the locations and dates of specific events from the books.</div>",
+	"IMG":"Fantasy_LOR.png"
 	},
 
-	{	"NAME":"Interactive map: the UK's best bookshops and Literary locations",
-	"AUTHOR":"The Guardian",
+	{	
+	"NAME":"Interactive map: the UK's best bookshops and Literary locations",
+	"Author":"The Guardian",
 	"LINK":"http://www.theguardian.com/books/interactive/2012/may/31/best-bookshops-map",
-	"RATE":NULL,
-	"LABEL":"NULL",
-	"URL":"http://www.theguardian.com/books/interactive/2012/may/31/best-bookshops-map",
+	"LABEL":"['Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"Poems About Places",
-	"AUTHOR":"Poetry Atlas",
+	{	
+	"NAME":"Poems About Places",
+	"Author":"Poetry Atlas",
 	"LINK":"http://www.poetryatlas.com/",
-	"RATE":4.5,
-	"LABEL":"["Misc"]",
-	"URL":"http://www.poetryatlas.com/",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Everything Else','Everything Else']",
+	"DESCRIPTION":"<div>A unique collaborative project that only focuses on the real places in poems, Poetry Atlas is a map created by Tam Tam Media which serves to emphasize the importance of poetry and revitalize it in the public's mind, as evidenced by the viewer's ability to contribute their own poems about places.</div>",
+	"IMG":"Misc_PoetryAtlas.png"
 	},
 
-	{	"NAME":"Inside Inferno in Florence",
-	"AUTHOR":"Press Agency Headline",
+	{	
+	"NAME":"Inside Inferno in Florence",
+	"Author":"Press Agency Headline",
 	"LINK":"http://www.insideinferno.com/en/",
-	"RATE":4.5,
-	"LABEL":"["Artistic"]",
-	"URL":"http://www.insideinferno.com/en/",
-	"DESCRIPTION":null,
+	"LABEL":"['Main Other Worlds', 'Other Worlds']",
+	"DESCRIPTION":"<div>Accurately described as a \"Virtual Tour of Hell,\" this map incorporates information and text from ﻿﻿Dante's Inferno ﻿into interactive graphics. Created by Todd King, a Library Systems Administrator at Eastern Kentucky University, the divine comedy is meticulously mapped through each circle of Hell, providing a dark and humorous experience as Dante intended.</div>",
 	"IMG":null
 	},
 
-	{	"NAME":"Dylan Thomas 100",
-	"AUTHOR":"Dylan Thomas 100",
+	{	
+	"NAME":"Dylan Thomas 100",
+	"Author":"Dylan Thomas 100",
 	"LINK":"http://www.dylanthomas100.org/english/map/#",
-	"RATE":6.5/2,
-	"LABEL":"["Misc"]",
-	"URL":"http://www.dylanthomas100.org/english/map/#",
-	"DESCRIPTION":null,
-	"IMG":null
+	"LABEL":"['Main Singular Focus','Singular Focus']",
+	"DESCRIPTION":"<div>In order to celebrate the centenary of Dylan Thomas' birth, Dylan Thomas 100 brought together several organizations to celebrate the life and work of Wales' most famous poet. The map shows significant locations from Thomas' writing and personal experiences, as well as hosts images and videos from the public.</div>",
+	"IMG":"Author_DylanThomas.png"
 	},
 
-	{	"NAME":"Catalogue of Ships in the Iliad",
-	"AUTHOR":"Scholar's Lab, UVa",
+	{	
+	"NAME":"Catalogue of Ships in the Iliad",
+	"Author":"Scholar's Lab, UVa",
 	"LINK":"http://ships.lib.virginia.edu",
-	"RATE":5,
-	"LABEL":"["Book"]",
-	"URL":"http://ships.lib.virginia.edu",
+	"LABEL":"['Main Everything Else','Everything Else']",
+	"DESCRIPTION":"<div>This map spawned from a desire to determine how Homer remembered all of the numerous locations he references in the Iliad. Through linguistic analysis, the Scholars' Lab at the University of Virginia has successfully mapped a catalog of ships listed in the novel, and corresponded them to the land of Greece. </div>",
+	"IMG":null
+	},
+
+	{	
+	"NAME":"All the Pretty Horses",
+	"Author":"Unknown",
+	"LINK":"https://www.google.com/maps/d/viewer?mid=z2yfHlzYdBUY.k-Ay1it52V8Y&msa=0",
+	"LABEL":"['Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
 	},
 
-	{	"NAME":"All the Pretty Horses",
-	"AUTHOR":"NULL",
+	{	
+	"NAME":"Kentucky Literary Map",
+	"Author":"Kentucky Council Teachers of English/Language Arts",
 	"LINK":"https://www.google.com/maps/d/viewer?mid=z2yfHlzYdBUY.k-Ay1it52V8Y&msa=0",
-	"RATE":2,
-	"LABEL":"["Book"]",
-	"URL":"https://www.google.com/maps/d/viewer?mid=z2yfHlzYdBUY.k-Ay1it52V8Y&msa=0",
+	"LABEL":"['Main Artistic Representation', 'Artistic Representation', 'Regional Works']",
+	"DESCRIPTION":"<div>This print map was created by The Kentucky Council of Teachers of English / Language and features the various homes of authors, poets and politicians who originated in the state of Kentucky. Each name is mapped by its corresponding county and designated with symbols representing Pulitzer Prize winners, Kentucky poet laureates, Vice Presidents and First Ladies.</div>",
+	"IMG":null
+	},
+
+	{	
+	"NAME":"Map of Mortal Insturments New York",
+	"Author":"Cassandra Clare",
+	"LINK":"http://tmisource.com/2011/10/20/map-of-mortal-instruments-new-york/",
+	"LABEL":"['Regional Work', 'Everything Else']",
 	"DESCRIPTION":null,
 	"IMG":null
-	}]
+	},
+
+	{	
+	"NAME":"Neverwhere - Neil Gaiman",
+	"Author":"Walked-In London",
+	"LINK":"http://tmisource.com/2011/10/20/map-of-mortal-instruments-new-york/",
+	"LABEL":"['Singular Focus', 'Everything Else']",
+	"DESCRIPTION":null,
+	"IMG":null
+	},
+
+	{	
+	"NAME":"Local Collections",
+	"Author":null,
+	"LINK":null,
+	"LABEL":"['Main Page']",
+	"DESCRIPTION":"<div>These maps focus on scenes from books pertaining to one city.</div>",
+	"IMG":null
+	},
+
+	{	
+	"NAME":"Regional Works",
+	"Author":null,
+	"LINK":null,
+	"LABEL":"['Main Page']",
+	"DESCRIPTION":"<div>These maps are dedicated to plotting works spread across an entire region.</div>",
+	"IMG":null
+	},
+	
+	{	
+	"NAME":"Other Worlds",
+	"Author":null,
+	"LINK":null,
+	"LABEL":"['Main Page']",
+	"DESCRIPTION":"<div> Fans have meticulously sketched and imagined detailed maps of these fantasy worlds.</div>",
+	"IMG":null
+	},
+	
+	{	
+	"NAME":"Singular Focus",
+	"Author":null,
+	"LINK":null,
+	"LABEL":"['Main Page']",
+	"DESCRIPTION":"<div>Maps devoted to tracking locations from a single book or author can be found here.</div>",
+	"IMG":null
+	},
+	
+	{	
+	"NAME":"Artistic Representations",
+	"Author":null,
+	"LINK":null,
+	"LABEL":"['Main Page']",
+	"DESCRIPTION":"<div>These maps focus on artistic representations of a book.</div>",
+	"IMG":null
+	},
+	
+	{	
+	"NAME":"Everything Else",
+	"Author":null,
+	"LINK":null,
+	"LABEL":"['Main Page']",
+	"DESCRIPTION":"<div>For their scope and breadth, some literary maps defy easy classification.</div>",
+	"IMG":null
+	}
+]
+
